@@ -1,0 +1,18 @@
+\babel@toc {portuguese}{}
+\contentsline {chapter}{\numberline {1}Introdução}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Componentes}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Interface Web}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Aplicação Web}{2}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Função user\_is\_logged}{2}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Função db\_store\_image}{3}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Funções get}{3}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Função draft\_image}{4}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Função db\_update\_image\_owner}{4}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Classe CreateImage}{5}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Classe Users}{5}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Classe Cromos}{6}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Classe Root}{8}{subsection.2.2.9}%
+\contentsline {section}{\numberline {2.3}Persistência}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Processador de Imagens}{10}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Resultados}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Conclusões}{13}{chapter.4}%

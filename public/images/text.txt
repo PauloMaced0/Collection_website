@@ -1,0 +1,1 @@
+Ficheiro para não eliminar a pasta quando enviar para o git

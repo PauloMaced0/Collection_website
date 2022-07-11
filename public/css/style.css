@@ -1,0 +1,38 @@
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    height: 14vh;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+html {
+    font-size: 1rem;
+}
+
+.select {
+    margin-left: 3.7%;
+    align-content: center;
+}
+
+.logout_div {
+    position: absolute;
+    bottom: 1%;
+}
+
+.div_center {
+    margin-top: 5%;
+    margin-left: 21%;
+    width: 60%;
+}
+.div_format{
+    min-height: 100vh;
+}
+.div_center_upload{
+    margin-top: 5%;
+    margin-left: 38%;
+    width: 70%;  
+}
